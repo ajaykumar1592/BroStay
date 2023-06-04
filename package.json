@@ -1,0 +1,11 @@
+{
+  "name": "brostay-master",
+  "version": "1.0.0",
+  "description": "This is a full stack web application and its a clone of airbnb which is a booking app where you can publish your own places and also book some one else places for sometime.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Bhavesh Kushwaha",
+  "license": "ISC"
+}
